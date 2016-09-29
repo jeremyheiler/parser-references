@@ -1,6 +1,6 @@
-# Parser Links
+# Parser References
 
-This is my collection of links for all things parsers!
+This is my collection of references for all things parsers!
 
 ## Books
 
